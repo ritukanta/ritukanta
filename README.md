@@ -1,4 +1,4 @@
-### Hello there!<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+### Hello there!<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" height="28px" width="29px">
 
 
 <table>
