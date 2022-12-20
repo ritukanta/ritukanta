@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ritukantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritukantar" height="30" width="40" /></a>
-<a href="https://instagram.com/ritukantareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritukantareddy" height="30" width="40" /></a>
+<a href="https://twitter.com/ritukantar" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/512/twitter.png" alt="ritukantar" height="30" width="40" /></a>
+<a href="https://instagram.com/ritukantreddy" target="blank"><img align="center" src="https://logodix.com/logo/1049883.gif" alt="ritukantreddy" height="30" width="40" /></a>
 </p>
 
 ### &nbsp;console.log()'s GitHub Analytics
@@ -37,10 +37,3 @@
 </a>
 </p>
 <br/>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritukanta&theme=redical">
-</p>
-
-<!-- ### &nbsp;console.log()'s Holopin Board -->
-
-<!-- [![@ritukanta's Holopin board](https://holopin.io/api/user/board?user=ritukanta)](https://holopin.io/@ritukanta) -->
