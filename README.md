@@ -22,12 +22,6 @@
 > - 512GB NVMe SSD
 > - Windows 11 Home 64
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ritukantar" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/512/twitter.png" alt="ritukantar" height="30" width="40" /></a>
-<a href="https://instagram.com/ritukantreddy" target="blank"><img align="center" src="https://logodix.com/logo/1049883.gif" alt="ritukantreddy" height="30" width="40" /></a>
-</p>
-
 ### &nbsp;console.log()'s GitHub Analytics
 
 <p align="center">
