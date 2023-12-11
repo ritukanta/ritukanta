@@ -9,18 +9,17 @@
 
 ### Current Working Environments
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows11)<br>
-[![Ubuntu 20.04.5 LTS](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/focal/)
+[![Ubuntu 22.04.3 LTS](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/focal/)
 
 ### Current Working Machine
 
 #### Lenovo IdeaPad 3 15ITL6
 
+> - Ubuntu 22.04.3 LTS
 > - Intel Core i5 @ 2.40 GHz - 2.42 GHz
 > - Intel Iris Xe Graphics
 > - 8GB DDR4-3200 RAM
 > - 512GB NVMe SSD
-> - Windows 11 Home 64
 
 ### &nbsp;console.log()'s GitHub Analytics
 
