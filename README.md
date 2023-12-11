@@ -9,7 +9,7 @@
 
 ### Current Working Environments
 
-[![Ubuntu 22.04.3 LTS](htthttps://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668?_ga=2.190490475.136566489.1702278266-1047477952.1701161591)
+[![Ubuntu 22.04.3 LTS](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668?_ga=2.190490475.136566489.1702278266-1047477952.1701161591)
 
 ### Current Working Machine
 
