@@ -9,17 +9,19 @@
 
 ### Current Working Environments
 
-[![Ubuntu 22.04.3 LTS](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668?_ga=2.190490475.136566489.1702278266-1047477952.1701161591)
+[![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png)](https://archlinux.org/)
 
 ### Current Working Machine
 
 #### Lenovo IdeaPad 3 15ITL6
 
-> - Ubuntu 22.04.3 LTS
-> - Intel Core i5 @ 2.40 GHz - 2.42 GHz
-> - Intel Iris Xe Graphics
-> - 8GB DDR4-3200 RAM
-> - 512GB NVMe SSD
+> - OS: Arch Linux x86_64
+> - CPU: 11th Gen Intel i5-1135G7 (8) @ 4
+> - GPU: Intel Iris Xe Graphics
+> - Memory: 8GB DDR4-3200 RAM
+> - Storage: 512GB NVMe SSD
+> - DE: Cinnamon 6.4.0
+> - Kernel: 6.12.3-arch-1
 
 ### &nbsp;console.log()'s GitHub Analytics
 
