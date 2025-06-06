@@ -9,8 +9,6 @@
 
 ### Current Working Environments
 
-[![Windows !!](/logo.png)](https://www.microsoft.com/en-us/software-download/windows11)
-
 ### Current Working Machine
 
 #### Lenovo IdeaPad 3 15ITL6
