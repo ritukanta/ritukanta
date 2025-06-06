@@ -9,19 +9,19 @@
 
 ### Current Working Environments
 
-[![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png)](https://archlinux.org/)
+[![Windows !!](/logo.png)](https://www.microsoft.com/en-us/software-download/windows11)
 
 ### Current Working Machine
 
 #### Lenovo IdeaPad 3 15ITL6
 
-> - OS: Arch Linux x86_64
+> - OS: Windows 11 Home
 > - CPU: 11th Gen Intel i5-1135G7 (8) @ 4
 > - GPU: Intel Iris Xe Graphics
 > - Memory: 8GB DDR4-3200 RAM
 > - Storage: 512GB NVMe SSD
-> - DE: Cinnamon 6.4.0
-> - Kernel: 6.12.3-arch-1
+> - DE: Windows Shell
+> - Kernel: Version 10.0.26100.4202
 
 ### &nbsp;console.log()'s GitHub Analytics
 
