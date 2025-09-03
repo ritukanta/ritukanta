@@ -8,7 +8,7 @@
 - 🌱 I’m learning **Python, JavaScript, Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Math, Coding, and Tech**
-- 📫 How to reach me: [reddyritukanta37@gmail.com](mailto:reddyritukanta37@gmail.com])
+- 📫 How to reach me: [reddyritukanta37@gmail.com](mailto:reddyritukanta37@gmail.com)
 
 ---
 
