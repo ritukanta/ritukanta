@@ -30,7 +30,7 @@
 | **Kernel**       | ![Kernel](https://img.shields.io/badge/Kernel-6.16.4-blue?style=for-the-badge) 6.16.4-arch1-1 |
 | **CPU**          | ![Processor](https://img.shields.io/badge/CPU-Intel_Core_i5-orange?style=for-the-badge&logo=intel) 11th Gen Intel© Core™ i5-1135G7 @ 2.40GHz × 4 |
 | **GPU**          | ![GPU](https://img.shields.io/badge/GPU-Intel_Iris_Xe-lightgrey?style=for-the-badge&logo=intel) Integrated Graphics |
-| **RAM**          | ![RAM](https://img.shields.io/badge/RAM-32GB-green?style=for-the-badge) DDR4 3200MHz |
+| **RAM**          | ![RAM](https://img.shields.io/badge/RAM-08GB-green?style=for-the-badge) DDR4 |
 | **Storage**      | ![Storage](https://img.shields.io/badge/Storage-512GB_NVMe-gray?style=for-the-badge) SSD |
 | **Shell**        | ![Shell](https://img.shields.io/badge/Shell-Zsh-purple?style=for-the-badge) Zsh |
 | **Editor/IDE**   | ![VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visual-studio-code) VS Code|
